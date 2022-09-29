@@ -1,0 +1,6 @@
+# Is the plugin enabled?
+plugin_enabled: true
+
+
+banned_item_types:
+  - TEST
